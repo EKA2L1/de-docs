@@ -1,0 +1,17 @@
+Descriptor8
+===========
+
+.. currentmodule:: symemu2.descriptor
+
+.. autoclass:: Descriptor8
+   :show-inheritance:
+
+   .. rubric:: Methods Summary
+
+   .. autosummary::
+
+      ~Descriptor8.rawData
+
+   .. rubric:: Methods Documentation
+
+   .. automethod:: rawData

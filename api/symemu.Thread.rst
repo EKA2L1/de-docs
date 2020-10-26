@@ -1,0 +1,39 @@
+Thread
+======
+
+.. currentmodule:: symemu
+
+.. autoclass:: Thread
+   :show-inheritance:
+
+   .. rubric:: Methods Summary
+
+   .. autosummary::
+
+      ~Thread.getExitReason
+      ~Thread.getHeapBase
+      ~Thread.getLeaveDepth
+      ~Thread.getLr
+      ~Thread.getName
+      ~Thread.getOwningProcess
+      ~Thread.getPc
+      ~Thread.getPriority
+      ~Thread.getRegister
+      ~Thread.getSp
+      ~Thread.getStackBase
+      ~Thread.getState
+
+   .. rubric:: Methods Documentation
+
+   .. automethod:: getExitReason
+   .. automethod:: getHeapBase
+   .. automethod:: getLeaveDepth
+   .. automethod:: getLr
+   .. automethod:: getName
+   .. automethod:: getOwningProcess
+   .. automethod:: getPc
+   .. automethod:: getPriority
+   .. automethod:: getRegister
+   .. automethod:: getSp
+   .. automethod:: getStackBase
+   .. automethod:: getState

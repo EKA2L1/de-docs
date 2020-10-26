@@ -19,11 +19,10 @@ import sys
 
 sys.path.insert(0, os.path.abspath('..'))
 
-
 # -- Project information -----------------------------------------------------
 
 project = 'EKA2L1'
-copyright = '2019, pent0'
+copyright = '2019- EKA2L1 Project'
 author = 'pent0'
 
 # The full version, including alpha/beta/rc tags

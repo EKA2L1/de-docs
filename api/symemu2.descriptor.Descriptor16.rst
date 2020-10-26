@@ -1,0 +1,17 @@
+Descriptor16
+============
+
+.. currentmodule:: symemu2.descriptor
+
+.. autoclass:: Descriptor16
+   :show-inheritance:
+
+   .. rubric:: Methods Summary
+
+   .. autosummary::
+
+      ~Descriptor16.rawData
+
+   .. rubric:: Methods Documentation
+
+   .. automethod:: rawData
